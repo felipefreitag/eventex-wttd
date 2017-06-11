@@ -2,6 +2,9 @@
 
 Sistema de Eventos encomendado pela Morena. (Programa Welcome to The Django)
 
+[![Build Status](https://travis-ci.org/felipefreitag/eventex.svg?branch=master)](https://travis-ci.org/felipefreitag/eventex)
+[![Code Health](https://landscape.io/github/felipefreitag/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/felipefreitag/eventex/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório
@@ -12,7 +15,7 @@ Sistema de Eventos encomendado pela Morena. (Programa Welcome to The Django)
 6. Execute os testes
 
 ```console
-git clone git@github.com:felipefreitag/eventex.git weed
+git clone git@github.com:felipefreitag/eventex.git wttd
 cd wttd
 python -m venv .wttd
 source .wttd/bin/activate
