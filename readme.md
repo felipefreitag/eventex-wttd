@@ -1,3 +1,11 @@
+# Project goals
+
++ Python and Django best practices
++ Continuous delivery: Project is deployed to Heroku after each commit
++ TDD: tests come before code
++ Delivering real value: All improvements come from 'client' demands
++ [See the deployed project](https://eventex-felipefreitag.herokuapp.com/)
+
 # Eventex
 
 Sistema de Eventos encomendado pela Morena. (Programa Welcome to The Django)
