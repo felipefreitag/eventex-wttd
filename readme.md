@@ -10,8 +10,9 @@
 
 Sistema de Eventos encomendado pela Morena. (Programa Welcome to The Django)
 
-[![Build Status](https://travis-ci.org/felipefreitag/eventex.svg?branch=master)](https://travis-ci.org/felipefreitag/eventex)
-[![Code Health](https://landscape.io/github/felipefreitag/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/felipefreitag/eventex/master)
+[![Build Status](https://travis-ci.org/felipefreitag/eventex-wttd.svg?branch=master)](https://travis-ci.org/felipefreitag/eventex-wttd)
+[![Code Health](https://landscape.io/github/felipefreitag/eventex-wttd/master/landscape.svg?style=flat)](https://landscape.io/github/felipefreitag/eventex-wttd/master)
+
 
 ## Como desenvolver?
 
